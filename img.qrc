@@ -1,0 +1,97 @@
+<RCC version="1.0">
+    <qresource prefix="images">		
+		<!-- Add TestPoint Xiaomi Images Paths -->	
+		<file>TestPoint/Xiaomi/No image.png</file>
+		
+		<!-- Add TestPoint Samsung Images Paths -->
+		<file>TestPoint/Samsung/No image.png</file>
+		
+		<!-- Add TestPoint Huawei Images Paths -->
+		<file>TestPoint/Huawei/No image.png</file>	
+		
+		<!-- Add TestPoint Vivo Images Paths -->
+		<file>TestPoint/Vivo/No image.png</file>
+		
+		<!-- Add TestPoint Oppo Images Paths -->
+		<file>TestPoint/Oppo/No image.png</file>
+		
+		<!-- Add TestPoint Lenovo Images Paths -->
+		<file>TestPoint/Lenovo/No image.png</file>
+		
+		<!-- Add TestPoint Vsmart Images Paths -->
+		<file>TestPoint/Vsmart/No image.png</file>
+		
+		<!-- Add TestPoint Nokia Images Paths -->
+		<file>TestPoint/Nokia/No image.png</file>
+		
+		<!-- Add TestPoint Asus Images Paths -->
+		<file>TestPoint/Asus/No image.png</file>
+		
+		<!-- Add TestPoint LG Images Paths -->
+		<file>TestPoint/LG/No image.png</file>
+		
+		<!-- Add TestPoint Meizu Images Paths -->
+		<file>TestPoint/Meizu/No image.png</file>
+		
+		<!-- Add TestPoint Motorola Images Paths -->
+		<file>TestPoint/Motorola/No image.png</file>
+		
+		<!-- Add IPS Xiaomi Images Paths -->
+		<file>ISP/Xiaomi/No image.png</file>
+
+		<!-- Add IPS Samsung Images Paths -->
+		<file>ISP/Samsung/No image.png</file>
+
+		<!-- Add IPS huawei Images Paths -->
+		<file>ISP/Huawei/No image.png</file>
+
+		<!-- Add IPS Vivo Images Paths -->
+		<file>ISP/Vivo/No image.png</file>
+
+		<!-- Add IPS Oppo Images Paths -->
+		<file>ISP/Oppo/No image.png</file>
+		
+		<!-- Add IPS Lenovo Images Paths -->
+		<file>ISP/Lenovo/No image.png</file>
+
+		<!-- Add IPS Vsmart Images Paths -->
+		<file>ISP/Vsmart/No image.png</file>
+
+		<!-- Add IPS Nokia Images Paths -->
+		<file>ISP/Nokia/No image.png</file>
+
+		<!-- Add IPS Asus Images Paths -->
+		<file>ISP/Asus/No image.png</file>
+
+		<!-- Add IPS LG Images Paths -->
+		<file>ISP/LG/No image.png</file>
+
+		<!-- Add IPS Meizu Images Paths -->
+		<file>ISP/Meizu/No image.png</file>
+
+		<!-- Add IPS Motorola Images Paths -->
+		<file>ISP/Motorola/No image.png</file>
+
+		<!-- Add HS Xiaomi Images Paths -->
+		<file>HSolution/Xiaomi/No image.png</file>		
+
+		<!-- Add HS Samsung Images Paths -->
+		<file>HSolution/Samsung/No image.png</file>	
+
+		<!-- Add HS Huawei Images Paths -->
+		<file>HSolution/Huawei/No image.png</file>
+
+		<!-- Add HS Oppo Images Paths -->
+		<file>HSolution/Oppo/No image.png</file>
+
+		<!-- Add HS Vivo Images Paths -->
+		<file>HSolution/Vivo/No image.png</file>
+
+		<!-- Add Restore Maximize Paths -->
+		<file>icons/restore-maximize.png</file>
+
+		<!-- Add Spinner Loading Paths -->
+		<file>icons/ZKZg.gif</file>
+
+    </qresource>
+</RCC>

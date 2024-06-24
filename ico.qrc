@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/tools.png</file>
+    <file>icons/play.png</file>
+    <file>icons/Appel_folder.png</file>
+    <file>icons/code.png</file>
+    <file>icons/iPhone.png</file>
+    <file>icons/cancel.png</file>
+    <file>icons/ok.png</file>
+    <file>icons/chip.png</file>
+    <file>icons/key.png</file>
+    <file>icons/LB.png</file>
+    <file>icons/app.png</file>
+    <file>icons/cogwheel.png</file>
+    <file>icons/pdf.png</file>
+    <file>icons/cpu.png</file>
+    <file>icons/account.png</file>
+    <file>icons/window.png</file>
+    <file>icons/clock.png</file>
+    <file>icons/paper-pin.png</file>
+    <file>icons/folder.png</file>
+    <file>icons/maximize.png</file>
+    <file>icons/search.png</file>
+    <file>icons/coding.png</file>
+    <file>icons/processor.png</file>
+    <file>icons/Pdf_folder.png</file>
+    <file>icons/Header.png</file>
+    <file>icons/global-security.png</file>
+    <file>icons/help.png</file>
+    <file>icons/minus.png</file>
+  </qresource>
+</RCC>
