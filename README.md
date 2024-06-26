@@ -80,3 +80,14 @@ pip install PyMuPDF
                 "Hello2.pdf": resource_path("SDiagram/Huawei/schematic2/Hello2.pdf"),
             },
 ```
+
+# Qtreewidget add item use qt designer :
+
+![2024-06-26_184333](https://github.com/devloperltd/Laroussi-Android-Board-TP-ISP-Schematic/assets/94921918/f4564ca1-2e77-4b05-b386-29db018fa636)
+
+# Convert a QtDesigner QRC file to Python :
+
+```sh
+pyside6-rcc ico.qrc -o rc_ico.py
+pyside6-rcc img.qrc -o rc_img.py
+```
